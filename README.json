@@ -1,0 +1,929 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Structured Data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "API"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Clixon Code",
+          "description": "Clixon provides an interactive CLI, NETCONF, and RESTCONF configuration interface for a YANG-based device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T09:45:03Z",
+            "owner": "clicon",
+            "repo": "clixon",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clixon Controller Code",
+          "description": "The Clixon controller is an open-source tool for network automation of devices based on NETCONF and YANG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T10:56:48Z",
+            "owner": "clicon",
+            "repo": "clixon-controller",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Clixon"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Napalm-Salt Repository",
+          "description": "The NAPALM-Salt Repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-21T13:27:58Z",
+            "owner": "napalm-automation",
+            "repo": "napalm-salt",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "salt-sproxy",
+          "description": "Salt plugin to automate the management and configuration of (network) devices at scale, without running (Proxy) Minions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-03T15:40:28Z",
+            "owner": "mirceaulinic",
+            "repo": "salt-sproxy",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "salt-nornir",
+          "description": "proxy minion to manage network with SaltStack and Nornir using Netmiko, NAPALM, Scrapli, Ncclient, PyGNMI, PyATS based plugins to name a few.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-27T21:34:12Z",
+            "owner": "dmulyalin",
+            "repo": "salt-nornir",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Salt"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nautobot",
+          "description": "Nautobot is a Network Source of Truth and Network Automation Platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:07:30Z",
+            "owner": "nautobot",
+            "repo": "nautobot",
+            "stars": 1576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eNMS",
+          "description": "A vendor-agnostic NMS for carrier-grade network visualization and network automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-08T02:50:50Z",
+            "owner": "eNMS-automation",
+            "repo": "eNMS",
+            "stars": 838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netpalm",
+          "description": "netpalm is a ReST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT or a Python Script.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-23T11:16:08Z",
+            "owner": "tbotnz",
+            "repo": "netpalm",
+            "stars": 455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NSoT",
+          "description": "Network Source of Truth (NSoT) is a source of truth database and repository for tracking inventory and metadata of network entities to ease management and automation of network infrastructure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-13T15:09:43Z",
+            "owner": "dropbox",
+            "repo": "nsot",
+            "stars": 406
+          }
+        }
+      ],
+      "title": "Products"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Netmiko",
+          "description": "Multi-vendor library to simplify Paramiko SSH connections to network devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T19:00:02Z",
+            "owner": "ktbyers",
+            "repo": "netmiko",
+            "stars": 4246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NAPALM",
+          "description": "NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:44:53Z",
+            "owner": "napalm-automation",
+            "repo": "napalm",
+            "stars": 2486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nornir",
+          "description": "Nornir is a pure Python automation framework intended to be used directly from Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:55:06Z",
+            "owner": "nornir-automation",
+            "repo": "nornir",
+            "stars": 1611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextFSM",
+          "description": "Python module for parsing semi-structured text into Python tables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-17T04:16:34Z",
+            "owner": "google",
+            "repo": "textfsm",
+            "stars": 1245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Capirca",
+          "description": "Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T15:14:51Z",
+            "owner": "google",
+            "repo": "capirca",
+            "stars": 854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ciscoconfparse",
+          "description": "Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-11-22T10:29:31Z",
+            "owner": "mpenning",
+            "repo": "ciscoconfparse",
+            "stars": 843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netaddr",
+          "description": "Network address manipulation that supports a number of techniques (supernetting and subnetting).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-05T23:39:56Z",
+            "owner": "netaddr",
+            "repo": "netaddr",
+            "stars": 827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Template Text Parser",
+          "description": "CLI tool and Python module for parsing semi-structured text into structured data. Similar syntax to Jinja templating, but in reverse. TTP Templates collection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-24T11:15:39Z",
+            "owner": "dmulyalin",
+            "repo": "ttp",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inet-henge",
+          "description": "Generate d3.js based Network Diagram from JSON data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-19T16:49:25Z",
+            "owner": "codeout",
+            "repo": "inet-henge",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aerleon",
+          "description": "Multi-platform ACL generation system with plugin support, YAML-based config, and a Python API. Fork of Capirca.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-02T06:19:31Z",
+            "owner": "aerleon",
+            "repo": "aerleon",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netutils",
+          "description": "A Python library that is a collection of functions that are used in the common network automation tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T22:11:01Z",
+            "owner": "networktocode",
+            "repo": "netutils",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreeZTP",
+          "description": "FreeZTP is an open-source Zero-Touch Provisioning system for Cisco IOS campus switches and routers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-13T18:07:58Z",
+            "owner": "PackeTsar",
+            "repo": "freeztp",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasySNMP",
+          "description": "Easy to use and very fast SNMP library that uses Net-SNMP.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2024-01-02T16:44:06Z",
+            "owner": "easysnmp",
+            "repo": "easysnmp",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Need To Graph",
+          "description": "A library to generate diagrams in yWorks GraphML, diagrams.net/draw.io or JSON formats using structured data or show commands output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-28T08:07:58Z",
+            "owner": "dmulyalin",
+            "repo": "N2G",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyGNMI",
+          "description": "Pure Python implementation of gNMI client to interact with network functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-10T22:21:02Z",
+            "owner": "akarneliuk",
+            "repo": "pygnmi",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hierarchical Configuration",
+          "description": "Hierarchical Configuration is a Python library that is able to take a running configuration of a network device, compare it to its intended configuration, and build the remediation steps necessary bring a device into spec with its intended configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T23:48:43Z",
+            "owner": "netdevops",
+            "repo": "hier_config",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YAPYANG",
+          "description": "Python package that helps translate YANG data models to Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-06T05:04:12Z",
+            "owner": "nomios-opensource",
+            "repo": "yapyang",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ara",
+          "description": "Ansible Runtime Analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T13:02:21Z",
+            "owner": "ansible-community",
+            "repo": "ara",
+            "stars": 2018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ansible-junos-stdlib",
+          "description": "Junos OS modules for Ansible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:04:48Z",
+            "owner": "Juniper",
+            "repo": "ansible-junos-stdlib",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NTC Ansible",
+          "description": "Multi-vendor Ansible modules for Network Automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-24T13:55:30Z",
+            "owner": "networktocode",
+            "repo": "ntc-ansible",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Napalm-Ansible",
+          "description": "Collection of Ansible modules that use napalm to retrieve data or modify configuration on networking devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T05:03:02Z",
+            "owner": "napalm-automation",
+            "repo": "napalm-ansible",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pan-os-ansible",
+          "description": "Ansible modules for working with Palo Alto Networks PAN-OS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T01:28:17Z",
+            "owner": "PaloAltoNetworks",
+            "repo": "pan-os-ansible",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FortiManager-Ansible",
+          "description": "Ansible module to work with FortiManager.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-09-24T17:34:11Z",
+            "owner": "networktocode",
+            "repo": "fortimanager-ansible",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infoblox-Ansible",
+          "description": "Ansible module to work with Infoblox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-16T15:15:29Z",
+            "owner": "infobloxopen",
+            "repo": "infoblox-ansible",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ansible-mysql-query",
+          "description": "Ansible module to modify MySQL database records.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-29T22:00:22Z",
+            "owner": "elmarx",
+            "repo": "ansible-mysql-query",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IP Infusion OcNOS Ansible module",
+          "description": "Ansible module, SNMP MIB files, and YANG files for OcNOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T17:17:29Z",
+            "owner": "IPInfusion",
+            "repo": "OcNOS",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netscaler-Ansible",
+          "description": "Ansible module to work with Netscalers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-12-20T20:59:32Z",
+            "owner": "networktocode",
+            "repo": "netscaler-ansible",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Non-Core Ansible Modules"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "napalm-install-formula",
+          "description": "Salt formula to simplify the installation of the necessary packages and system dependencies for NAPALM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SaltStack",
+            "last_commit": "2022-05-21T17:02:55Z",
+            "owner": "saltstack-formulas",
+            "repo": "napalm-install-formula",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "napalm-ntp-formula",
+          "description": "Formula to manage the NTP configuration on network devices, following the OpenConfig system YANG model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-09-25T09:01:21Z",
+            "owner": "saltstack-formulas",
+            "repo": "napalm-ntp-formula",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Pre-written Salt States (Formulas)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "py-junos-eznc",
+          "description": "Python library for Junos automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-22T09:15:21Z",
+            "owner": "Juniper",
+            "repo": "py-junos-eznc",
+            "stars": 718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pandevice",
+          "description": "Device framework for interacting with Palo Alto Networks devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T23:46:18Z",
+            "owner": "PaloAltoNetworks",
+            "repo": "pan-os-python",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pan-python",
+          "description": "Multi-tool set for Palo Alto Networks PAN-OS, Panorama, WildFire and AutoFocus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T16:30:39Z",
+            "owner": "kevinsteves",
+            "repo": "pan-python",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "f5-common-python",
+          "description": "Python SDK for configuration and monitoring of F5 BIG-IP devices via the iControl REST API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T16:48:11Z",
+            "owner": "F5Networks",
+            "repo": "f5-common-python",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyntc",
+          "description": "Python library focused on tasks related to device level and OS management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:21:44Z",
+            "owner": "networktocode",
+            "repo": "pyntc",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyeapi",
+          "description": "Python library for Arista EOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-09T12:53:18Z",
+            "owner": "arista-eosplus",
+            "repo": "pyeapi",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infoblox Python Module",
+          "description": "Python wrapper for REST API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-18T10:38:57Z",
+            "owner": "infobloxopen",
+            "repo": "infoblox-client",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dnacentersdk",
+          "description": "Python library for Cisco DNA Center Platform API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-08T00:19:55Z",
+            "owner": "cisco-en-programmability",
+            "repo": "dnacentersdk",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyiosxr",
+          "description": "Python library for Cisco IOSXR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-18T15:09:13Z",
+            "owner": "fooelisa",
+            "repo": "pyiosxr",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyfg",
+          "description": "Python library for Fortinet.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-03-26T14:47:42Z",
+            "owner": "spotify",
+            "repo": "pyfg",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cvprac",
+          "description": "Python library for Arista CVP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:07:23Z",
+            "owner": "aristanetworks",
+            "repo": "cvprac",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infoblox Go Client",
+          "description": "Go wrapper for REST API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-09T04:28:56Z",
+            "owner": "infobloxopen",
+            "repo": "infoblox-go-client",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clicrud",
+          "description": "Brocade specific (MLX/VDX/ICX/CER/CES) CLI driver (Telnet & SSH).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-05-08T16:06:08Z",
+            "owner": "DavidJohnGee",
+            "repo": "clicrud",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Vendor Abstraction Library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Batfish",
+          "description": "Open-source network validation application. Multi-vendor configuration parser with a detailed modeled based simulation to analyze all aspects of network behavior (routing, forwarding, security, etc...).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T20:24:00Z",
+            "owner": "batfish",
+            "repo": "batfish",
+            "stars": 1449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drawthe.net",
+          "description": "Draw network diagrams described in YAML files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-19T08:34:34Z",
+            "owner": "cidrblock",
+            "repo": "drawthe.net",
+            "stars": 1182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Topolograph",
+          "description": "Python-based Web tool for visualisation of OSPF/ISIS topologies and making a prediction of network behaviour in case of network's outage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smarty",
+            "last_commit": "2026-08-10T22:02:51Z",
+            "owner": "Vadims06",
+            "repo": "topolograph",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netconan",
+          "description": "Network Configuration Anonymizer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T22:54:49Z",
+            "owner": "intentionet",
+            "repo": "netconan",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "napalm-logs",
+          "description": "Cross-vendor normalisation for network syslog messages, following the OpenConfig and IETF YANG models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T19:25:47Z",
+            "owner": "napalm-automation",
+            "repo": "napalm-logs",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NetCopa",
+          "description": "Network device configuration parser (\"industry standard\" -> YAML converter).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-11T18:20:17Z",
+            "owner": "cidrblock",
+            "repo": "netcopa",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NetTowel",
+          "description": "Collection of useful network automation functions for the CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-02T12:32:03Z",
+            "owner": "InfrastructureAsCode-ch",
+            "repo": "nettowel",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSPF Watcher",
+          "description": "Tracks OSPF topology changes by establishing a GRE tunnel with network devices via a history diagram.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T02:41:35Z",
+            "owner": "Vadims06",
+            "repo": "ospfwatcher",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network-Conditions-Emulator",
+          "description": "Artificially limit bandwidth, delay and loss rate on selected interfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-10-27T18:46:18Z",
+            "owner": "marty90",
+            "repo": "Network-Conditions-Emulator",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IS-IS Watcher",
+          "description": "Tracks IS-IS topology changes by establishing a GRE tunnel with network devices via a history diagram.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-21T14:26:29Z",
+            "owner": "Vadims06",
+            "repo": "isiswatcher",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Online Parser"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T22:26:04.118Z",
+    "original_repository": "networktocode/awesome-network-automation",
+    "original_repository_sha": "3eda5a019597ced3709f18b8965c4769c04ac9e4",
+    "enhanced_repository": "enhansome/enhansome-network-automation",
+    "enhanced_repository_description": null,
+    "title": "Awesome Network Automation with stars"
+  }
+}
