@@ -103,10 +103,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T18:07:30Z",
+            "last_commit": "2026-08-14T21:38:05Z",
             "owner": "nautobot",
             "repo": "nautobot",
-            "stars": 1576
+            "stars": 1577
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2025-04-17T04:16:34Z",
             "owner": "google",
             "repo": "textfsm",
-            "stars": 1245
+            "stars": 1246
           }
         },
         {
@@ -305,7 +305,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T22:11:01Z",
+            "last_commit": "2026-08-14T17:38:37Z",
             "owner": "networktocode",
             "repo": "netutils",
             "stars": 253
@@ -645,7 +645,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T21:21:44Z",
+            "last_commit": "2026-08-14T17:38:32Z",
             "owner": "networktocode",
             "repo": "pyntc",
             "stars": 186
@@ -777,10 +777,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T20:24:00Z",
+            "last_commit": "2026-08-14T01:36:30Z",
             "owner": "batfish",
             "repo": "batfish",
-            "stars": 1449
+            "stars": 1451
           }
         },
         {
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T22:26:04.118Z",
+    "last_updated": "2026-08-14T22:00:59.948Z",
     "original_repository": "networktocode/awesome-network-automation",
     "original_repository_sha": "3eda5a019597ced3709f18b8965c4769c04ac9e4",
     "enhanced_repository": "enhansome/enhansome-network-automation",
