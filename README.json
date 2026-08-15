@@ -148,7 +148,7 @@
             "last_commit": "2024-02-13T15:09:43Z",
             "owner": "dropbox",
             "repo": "nsot",
-            "stars": 406
+            "stars": 407
           }
         }
       ],
@@ -252,7 +252,7 @@
             "last_commit": "2024-07-05T23:39:56Z",
             "owner": "netaddr",
             "repo": "netaddr",
-            "stars": 827
+            "stars": 828
           }
         },
         {
@@ -777,7 +777,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T01:36:30Z",
+            "last_commit": "2026-08-15T19:45:36Z",
             "owner": "batfish",
             "repo": "batfish",
             "stars": 1451
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:00:59.948Z",
+    "last_updated": "2026-08-15T21:58:57.381Z",
     "original_repository": "networktocode/awesome-network-automation",
     "original_repository_sha": "3eda5a019597ced3709f18b8965c4769c04ac9e4",
     "enhanced_repository": "enhansome/enhansome-network-automation",
