@@ -103,10 +103,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T21:38:05Z",
+            "last_commit": "2026-08-16T17:33:11Z",
             "owner": "nautobot",
             "repo": "nautobot",
-            "stars": 1577
+            "stars": 1576
           }
         },
         {
@@ -134,7 +134,7 @@
             "last_commit": "2026-03-23T11:16:08Z",
             "owner": "tbotnz",
             "repo": "netpalm",
-            "stars": 455
+            "stars": 454
           }
         },
         {
@@ -412,7 +412,7 @@
             "last_commit": "2026-07-13T13:02:21Z",
             "owner": "ansible-community",
             "repo": "ara",
-            "stars": 2018
+            "stars": 2019
           }
         },
         {
@@ -777,10 +777,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T19:45:36Z",
+            "last_commit": "2026-08-16T10:22:17Z",
             "owner": "batfish",
             "repo": "batfish",
-            "stars": 1451
+            "stars": 1453
           }
         },
         {
@@ -805,7 +805,7 @@
           "repo_info": {
             "archived": false,
             "language": "Smarty",
-            "last_commit": "2026-08-10T22:02:51Z",
+            "last_commit": "2026-08-16T13:58:01Z",
             "owner": "Vadims06",
             "repo": "topolograph",
             "stars": 237
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:58:57.381Z",
+    "last_updated": "2026-08-16T21:58:16.035Z",
     "original_repository": "networktocode/awesome-network-automation",
     "original_repository_sha": "3eda5a019597ced3709f18b8965c4769c04ac9e4",
     "enhanced_repository": "enhansome/enhansome-network-automation",
