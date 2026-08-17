@@ -103,10 +103,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T17:33:11Z",
+            "last_commit": "2026-08-17T21:34:33Z",
             "owner": "nautobot",
             "repo": "nautobot",
-            "stars": 1576
+            "stars": 1575
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-07-24T19:00:02Z",
             "owner": "ktbyers",
             "repo": "netmiko",
-            "stars": 4246
+            "stars": 4247
           }
         },
         {
@@ -193,7 +193,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T10:55:06Z",
+            "last_commit": "2026-08-17T10:54:30Z",
             "owner": "nornir-automation",
             "repo": "nornir",
             "stars": 1611
@@ -294,7 +294,7 @@
             "last_commit": "2026-07-02T06:19:31Z",
             "owner": "aerleon",
             "repo": "aerleon",
-            "stars": 258
+            "stars": 259
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-08-12T10:04:48Z",
             "owner": "Juniper",
             "repo": "ansible-junos-stdlib",
-            "stars": 340
+            "stars": 339
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2026-08-03T01:28:17Z",
             "owner": "PaloAltoNetworks",
             "repo": "pan-os-ansible",
-            "stars": 236
+            "stars": 237
           }
         },
         {
@@ -592,7 +592,7 @@
             "last_commit": "2026-06-22T09:15:21Z",
             "owner": "Juniper",
             "repo": "py-junos-eznc",
-            "stars": 718
+            "stars": 717
           }
         },
         {
@@ -777,10 +777,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T10:22:17Z",
+            "last_commit": "2026-08-17T19:23:22Z",
             "owner": "batfish",
             "repo": "batfish",
-            "stars": 1453
+            "stars": 1454
           }
         },
         {
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:58:16.035Z",
+    "last_updated": "2026-08-17T22:02:10.646Z",
     "original_repository": "networktocode/awesome-network-automation",
     "original_repository_sha": "3eda5a019597ced3709f18b8965c4769c04ac9e4",
     "enhanced_repository": "enhansome/enhansome-network-automation",
