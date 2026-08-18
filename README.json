@@ -103,10 +103,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T21:34:33Z",
+            "last_commit": "2026-08-18T21:11:01Z",
             "owner": "nautobot",
             "repo": "nautobot",
-            "stars": 1575
+            "stars": 1576
           }
         },
         {
@@ -165,10 +165,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-24T19:00:02Z",
+            "last_commit": "2026-08-18T19:48:08Z",
             "owner": "ktbyers",
             "repo": "netmiko",
-            "stars": 4247
+            "stars": 4249
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2026-08-12T20:44:53Z",
             "owner": "napalm-automation",
             "repo": "napalm",
-            "stars": 2486
+            "stars": 2487
           }
         },
         {
@@ -193,7 +193,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T10:54:30Z",
+            "last_commit": "2026-08-18T09:31:43Z",
             "owner": "nornir-automation",
             "repo": "nornir",
             "stars": 1611
@@ -294,7 +294,7 @@
             "last_commit": "2026-07-02T06:19:31Z",
             "owner": "aerleon",
             "repo": "aerleon",
-            "stars": 259
+            "stars": 260
           }
         },
         {
@@ -375,7 +375,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T23:48:43Z",
+            "last_commit": "2026-08-18T00:56:01Z",
             "owner": "netdevops",
             "repo": "hier_config",
             "stars": 149
@@ -465,7 +465,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-03T01:28:17Z",
+            "last_commit": "2026-08-18T00:05:00Z",
             "owner": "PaloAltoNetworks",
             "repo": "pan-os-ansible",
             "stars": 237
@@ -777,7 +777,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T19:23:22Z",
+            "last_commit": "2026-08-18T07:19:40Z",
             "owner": "batfish",
             "repo": "batfish",
             "stars": 1454
@@ -919,7 +919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:02:10.646Z",
+    "last_updated": "2026-08-18T22:00:11.237Z",
     "original_repository": "networktocode/awesome-network-automation",
     "original_repository_sha": "3eda5a019597ced3709f18b8965c4769c04ac9e4",
     "enhanced_repository": "enhansome/enhansome-network-automation",
