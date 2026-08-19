@@ -103,7 +103,7 @@
                 "archived": false,
                 "id": 340499469,
                 "language": "Python",
-                "last_commit": "2026-08-18T22:11:11Z",
+                "last_commit": "2026-08-19T20:56:25Z",
                 "owner": "nautobot",
                 "repo": "nautobot",
                 "stars": 1577
@@ -828,7 +828,7 @@
                 "archived": false,
                 "id": 27507850,
                 "language": "Java",
-                "last_commit": "2026-08-19T12:13:13Z",
+                "last_commit": "2026-08-19T15:41:34Z",
                 "owner": "batfish",
                 "repo": "batfish",
                 "stars": 1454
@@ -989,10 +989,10 @@
             "archived": false,
             "id": 290960521,
             "language": "Go",
-            "last_commit": "2026-08-19T12:41:00Z",
+            "last_commit": "2026-08-19T21:50:41Z",
             "owner": "srl-labs",
             "repo": "containerlab",
-            "stars": 2745
+            "stars": 2746
           }
         },
         {
@@ -1007,7 +1007,7 @@
             "last_commit": "2026-08-18T06:35:17Z",
             "owner": "ipspace",
             "repo": "netlab",
-            "stars": 726
+            "stars": 727
           }
         },
         {
@@ -1040,7 +1040,7 @@
             "archived": false,
             "id": 27507850,
             "language": "Java",
-            "last_commit": "2026-08-19T12:13:13Z",
+            "last_commit": "2026-08-19T15:41:34Z",
             "owner": "batfish",
             "repo": "batfish",
             "stars": 1454
@@ -1172,10 +1172,10 @@
             "archived": false,
             "id": 52796596,
             "language": "Python",
-            "last_commit": "2026-08-19T11:31:06Z",
+            "last_commit": "2026-08-19T20:35:07Z",
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21329
+            "stars": 21331
           }
         },
         {
@@ -1198,7 +1198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:41:25.317Z",
+    "last_updated": "2026-08-19T22:02:20.526Z",
     "original_repository": "networktocode/awesome-network-automation",
     "original_repository_id": 102978400,
     "original_repository_sha": "3eda5a019597ced3709f18b8965c4769c04ac9e4",
