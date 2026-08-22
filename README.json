@@ -103,10 +103,10 @@
                 "archived": false,
                 "id": 340499469,
                 "language": "Python",
-                "last_commit": "2026-08-21T21:37:59Z",
+                "last_commit": "2026-08-21T23:46:11Z",
                 "owner": "nautobot",
                 "repo": "nautobot",
-                "stars": 1578
+                "stars": 1579
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-18T19:48:08Z",
                 "owner": "ktbyers",
                 "repo": "netmiko",
-                "stars": 4255
+                "stars": 4256
               }
             },
             {
@@ -323,7 +323,7 @@
                 "last_commit": "2026-08-21T14:55:02Z",
                 "owner": "networktocode",
                 "repo": "netutils",
-                "stars": 254
+                "stars": 255
               }
             },
             {
@@ -435,7 +435,7 @@
                 "last_commit": "2026-07-13T13:02:21Z",
                 "owner": "ansible-community",
                 "repo": "ara",
-                "stars": 2019
+                "stars": 2018
               }
             },
             {
@@ -828,10 +828,10 @@
                 "archived": false,
                 "id": 27507850,
                 "language": "Java",
-                "last_commit": "2026-08-21T18:40:49Z",
+                "last_commit": "2026-08-22T20:26:36Z",
                 "owner": "batfish",
                 "repo": "batfish",
-                "stars": 1455
+                "stars": 1456
               }
             },
             {
@@ -989,10 +989,10 @@
             "archived": false,
             "id": 290960521,
             "language": "Go",
-            "last_commit": "2026-08-21T16:10:37Z",
+            "last_commit": "2026-08-22T21:31:50Z",
             "owner": "srl-labs",
             "repo": "containerlab",
-            "stars": 2752
+            "stars": 2759
           }
         },
         {
@@ -1004,7 +1004,7 @@
             "archived": false,
             "id": 320043315,
             "language": "Python",
-            "last_commit": "2026-08-21T15:59:18Z",
+            "last_commit": "2026-08-22T15:34:26Z",
             "owner": "ipspace",
             "repo": "netlab",
             "stars": 727
@@ -1040,10 +1040,10 @@
             "archived": false,
             "id": 27507850,
             "language": "Java",
-            "last_commit": "2026-08-21T18:40:49Z",
+            "last_commit": "2026-08-22T20:26:36Z",
             "owner": "batfish",
             "repo": "batfish",
-            "stars": 1455
+            "stars": 1456
           }
         },
         {
@@ -1079,7 +1079,7 @@
             "last_commit": "2026-08-17T23:23:50Z",
             "owner": "ytti",
             "repo": "oxidized",
-            "stars": 3502
+            "stars": 3510
           }
         },
         {
@@ -1172,10 +1172,10 @@
             "archived": false,
             "id": 52796596,
             "language": "Python",
-            "last_commit": "2026-08-21T20:02:37Z",
+            "last_commit": "2026-08-22T14:59:50Z",
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21340
+            "stars": 21352
           }
         },
         {
@@ -1198,7 +1198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:01:44.972Z",
+    "last_updated": "2026-08-22T21:59:56.625Z",
     "original_repository": "networktocode/awesome-network-automation",
     "original_repository_id": 102978400,
     "original_repository_sha": "81fe75ee18fa7c08bf30ec451b95559429c3fb87",
