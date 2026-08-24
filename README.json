@@ -6,6 +6,224 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Sample YAML documents describing common data structures",
+                  "description": "YAML examples courtesy of Ivan Pepelnjak.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 52597573,
+                    "language": "Jinja",
+                    "last_commit": "2026-02-11T07:53:01Z",
+                    "owner": "ipspace",
+                    "repo": "NetOpsWorkshop",
+                    "stars": 225
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "YAML"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome JSON",
+                  "description": "A curated list of awesome JSON libraries and resources.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 33020765,
+                    "language": null,
+                    "last_commit": "2026-06-19T12:25:07Z",
+                    "owner": "burningtree",
+                    "repo": "awesome-json",
+                    "stars": 1563
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "JSON"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Sample Jinja2 templates",
+                  "description": "Jinja examples courtesy of Ivan Pepelnjak.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 52597573,
+                    "language": "Jinja",
+                    "last_commit": "2026-02-11T07:53:01Z",
+                    "owner": "ipspace",
+                    "repo": "NetOpsWorkshop",
+                    "stars": 225
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Jinja2"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Structured Data"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Python",
+              "description": "A curated list of awesome Python frameworks, libraries, software and resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21289110,
+                "language": "Python",
+                "last_commit": "2026-08-24T06:42:58Z",
+                "owner": "vinta",
+                "repo": "awesome-python",
+                "stars": 315798
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Go",
+              "description": "A curated list of awesome Go frameworks, libraries, software and resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21540759,
+                "language": "Go",
+                "last_commit": "2026-08-21T06:27:18Z",
+                "owner": "avelino",
+                "repo": "awesome-go",
+                "stars": 182108
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Extreme Networks:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "EXOS REST API",
+                  "description": "Documentation and examples for ExtremeSwitching ExtremeXOS RESTCONF API.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62334976,
+                    "language": "HTML",
+                    "last_commit": "2022-05-02T15:04:53Z",
+                    "owner": "extremenetworks",
+                    "repo": "EXOS_Apps",
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EXOS JSONRPC Interface",
+                  "description": "Documentation and examples for ExtremeSwitching ExtremeXOS JSONRPC API.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62334976,
+                    "language": "HTML",
+                    "last_commit": "2022-05-02T15:04:53Z",
+                    "owner": "extremenetworks",
+                    "repo": "EXOS_Apps",
+                    "stars": 23
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vendor API Docs"
+        }
+      ],
+      "title": "Programming Topics"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sample network automation Ansible playbooks",
+              "description": "Ansible playbooks geared towards network engineers, courtesy of Ivan Pepelnjak.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76367791,
+                "language": "Python",
+                "last_commit": "2021-02-05T10:46:19Z",
+                "owner": "ipspace",
+                "repo": "ansible-examples",
+                "stars": 243
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ansible"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Getting Started with Batfish",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Jupyter Notebook",
+                  "description": "Jupyter Notebooks showing how to use Batfish for configuration, ACL, routing, forwarding, etc... analysis.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 142918121,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-19T13:21:52Z",
+                    "owner": "batfish",
+                    "repo": "pybatfish",
+                    "stars": 242
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Batfish"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "Clixon Code",
               "description": "Clixon provides an interactive CLI, NETCONF, and RESTCONF configuration interface for a YANG-based device.",
@@ -14,7 +232,7 @@
                 "archived": false,
                 "id": 52303111,
                 "language": "C",
-                "last_commit": "2026-08-23T13:29:24Z",
+                "last_commit": "2026-08-24T13:25:45Z",
                 "owner": "clicon",
                 "repo": "clixon",
                 "stars": 254
@@ -39,6 +257,28 @@
           "description": null,
           "node_type": "group",
           "title": "Clixon"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Infrahub GitHub Repo",
+              "description": "Infrahub - A new approach to Infrastructure Management.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 528799794,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:44:59Z",
+                "owner": "opsmill",
+                "repo": "infrahub",
+                "stars": 505
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Infrahub"
         },
         {
           "children": [
@@ -96,6 +336,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "StackStorm Repository",
+              "description": "StackStorm (aka \"IFTTT for Ops\") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow, 1800+ integrations, native ChatOps and so forth.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19051806,
+                "language": "Python",
+                "last_commit": "2026-08-22T04:13:47Z",
+                "owner": "StackStorm",
+                "repo": "st2",
+                "stars": 6523
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "StackStorm"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SuzieQ Repository",
+              "description": "Open-source code for the SuzieQ project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232338630,
+                "language": "Python",
+                "last_commit": "2026-08-05T11:20:14Z",
+                "owner": "netenglabs",
+                "repo": "suzieq",
+                "stars": 895
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SuzieQ"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Nautobot",
               "description": "Nautobot is a Network Source of Truth and Network Automation Platform.",
               "children": [],
@@ -103,7 +387,7 @@
                 "archived": false,
                 "id": 340499469,
                 "language": "Python",
-                "last_commit": "2026-08-23T18:02:29Z",
+                "last_commit": "2026-08-24T13:49:21Z",
                 "owner": "nautobot",
                 "repo": "nautobot",
                 "stars": 1579
@@ -121,7 +405,7 @@
                 "last_commit": "2026-05-08T02:50:50Z",
                 "owner": "eNMS-automation",
                 "repo": "eNMS",
-                "stars": 838
+                "stars": 839
               }
             },
             {
@@ -200,7 +484,7 @@
                 "archived": false,
                 "id": 76636028,
                 "language": "Python",
-                "last_commit": "2026-08-23T09:23:23Z",
+                "last_commit": "2026-08-24T13:24:50Z",
                 "owner": "nornir-automation",
                 "repo": "nornir",
                 "stars": 1612
@@ -263,7 +547,7 @@
                 "last_commit": "2024-07-05T23:39:56Z",
                 "owner": "netaddr",
                 "repo": "netaddr",
-                "stars": 829
+                "stars": 830
               }
             },
             {
@@ -435,7 +719,7 @@
                 "last_commit": "2026-07-13T13:02:21Z",
                 "owner": "ansible-community",
                 "repo": "ara",
-                "stars": 2018
+                "stars": 2019
               }
             },
             {
@@ -447,7 +731,7 @@
                 "archived": false,
                 "id": 16183015,
                 "language": "Python",
-                "last_commit": "2026-08-20T10:24:27Z",
+                "last_commit": "2026-08-24T06:03:36Z",
                 "owner": "Juniper",
                 "repo": "ansible-junos-stdlib",
                 "stars": 339
@@ -828,10 +1112,10 @@
                 "archived": false,
                 "id": 27507850,
                 "language": "Java",
-                "last_commit": "2026-08-23T14:21:24Z",
+                "last_commit": "2026-08-24T06:47:10Z",
                 "owner": "batfish",
                 "repo": "batfish",
-                "stars": 1456
+                "stars": 1457
               }
             },
             {
@@ -992,7 +1276,7 @@
             "last_commit": "2026-08-23T06:49:21Z",
             "owner": "srl-labs",
             "repo": "containerlab",
-            "stars": 2761
+            "stars": 2763
           }
         },
         {
@@ -1004,10 +1288,10 @@
             "archived": false,
             "id": 320043315,
             "language": "Python",
-            "last_commit": "2026-08-23T17:46:58Z",
+            "last_commit": "2026-08-24T11:56:48Z",
             "owner": "ipspace",
             "repo": "netlab",
-            "stars": 727
+            "stars": 728
           }
         },
         {
@@ -1040,10 +1324,10 @@
             "archived": false,
             "id": 27507850,
             "language": "Java",
-            "last_commit": "2026-08-23T14:21:24Z",
+            "last_commit": "2026-08-24T06:47:10Z",
             "owner": "batfish",
             "repo": "batfish",
-            "stars": 1456
+            "stars": 1457
           }
         },
         {
@@ -1058,7 +1342,7 @@
             "last_commit": "2026-08-05T11:20:14Z",
             "owner": "netenglabs",
             "repo": "suzieq",
-            "stars": 894
+            "stars": 895
           }
         }
       ],
@@ -1079,7 +1363,7 @@
             "last_commit": "2026-08-17T23:23:50Z",
             "owner": "ytti",
             "repo": "oxidized",
-            "stars": 3522
+            "stars": 3524
           }
         },
         {
@@ -1172,10 +1456,10 @@
             "archived": false,
             "id": 52796596,
             "language": "Python",
-            "last_commit": "2026-08-23T00:11:56Z",
+            "last_commit": "2026-08-24T12:21:13Z",
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21354
+            "stars": 21359
           }
         },
         {
@@ -1198,7 +1482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:59:51.966Z",
+    "last_updated": "2026-08-24T14:00:10.555Z",
     "original_repository": "networktocode/awesome-network-automation",
     "original_repository_id": 102978400,
     "original_repository_sha": "81fe75ee18fa7c08bf30ec451b95559429c3fb87",
