@@ -41,7 +41,7 @@
                     "last_commit": "2026-06-19T12:25:07Z",
                     "owner": "burningtree",
                     "repo": "awesome-json",
-                    "stars": 1563
+                    "stars": 1564
                   }
                 }
               ],
@@ -90,7 +90,7 @@
                 "last_commit": "2026-08-24T06:42:58Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 315798
+                "stars": 315857
               }
             }
           ],
@@ -109,10 +109,10 @@
                 "archived": false,
                 "id": 21540759,
                 "language": "Go",
-                "last_commit": "2026-08-21T06:27:18Z",
+                "last_commit": "2026-08-24T16:07:27Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182108
+                "stars": 182140
               }
             }
           ],
@@ -269,10 +269,10 @@
                 "archived": false,
                 "id": 528799794,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:44:59Z",
+                "last_commit": "2026-08-24T21:11:13Z",
                 "owner": "opsmill",
                 "repo": "infrahub",
-                "stars": 505
+                "stars": 506
               }
             }
           ],
@@ -346,7 +346,7 @@
                 "last_commit": "2026-08-22T04:13:47Z",
                 "owner": "StackStorm",
                 "repo": "st2",
-                "stars": 6523
+                "stars": 6524
               }
             }
           ],
@@ -387,7 +387,7 @@
                 "archived": false,
                 "id": 340499469,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:49:21Z",
+                "last_commit": "2026-08-24T20:40:55Z",
                 "owner": "nautobot",
                 "repo": "nautobot",
                 "stars": 1579
@@ -734,7 +734,7 @@
                 "last_commit": "2026-08-24T06:03:36Z",
                 "owner": "Juniper",
                 "repo": "ansible-junos-stdlib",
-                "stars": 339
+                "stars": 338
               }
             },
             {
@@ -928,7 +928,7 @@
                 "last_commit": "2026-07-22T23:46:18Z",
                 "owner": "PaloAltoNetworks",
                 "repo": "pan-os-python",
-                "stars": 398
+                "stars": 397
               }
             },
             {
@@ -1112,10 +1112,10 @@
                 "archived": false,
                 "id": 27507850,
                 "language": "Java",
-                "last_commit": "2026-08-24T06:47:10Z",
+                "last_commit": "2026-08-24T17:46:03Z",
                 "owner": "batfish",
                 "repo": "batfish",
-                "stars": 1457
+                "stars": 1459
               }
             },
             {
@@ -1276,7 +1276,7 @@
             "last_commit": "2026-08-23T06:49:21Z",
             "owner": "srl-labs",
             "repo": "containerlab",
-            "stars": 2763
+            "stars": 2768
           }
         },
         {
@@ -1288,7 +1288,7 @@
             "archived": false,
             "id": 320043315,
             "language": "Python",
-            "last_commit": "2026-08-24T11:56:48Z",
+            "last_commit": "2026-08-24T16:31:06Z",
             "owner": "ipspace",
             "repo": "netlab",
             "stars": 728
@@ -1324,10 +1324,10 @@
             "archived": false,
             "id": 27507850,
             "language": "Java",
-            "last_commit": "2026-08-24T06:47:10Z",
+            "last_commit": "2026-08-24T17:46:03Z",
             "owner": "batfish",
             "repo": "batfish",
-            "stars": 1457
+            "stars": 1459
           }
         },
         {
@@ -1363,7 +1363,7 @@
             "last_commit": "2026-08-17T23:23:50Z",
             "owner": "ytti",
             "repo": "oxidized",
-            "stars": 3524
+            "stars": 3525
           }
         },
         {
@@ -1456,10 +1456,10 @@
             "archived": false,
             "id": 52796596,
             "language": "Python",
-            "last_commit": "2026-08-24T12:21:13Z",
+            "last_commit": "2026-08-24T21:51:45Z",
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21359
+            "stars": 21361
           }
         },
         {
@@ -1482,7 +1482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:00:10.555Z",
+    "last_updated": "2026-08-24T22:03:09.086Z",
     "original_repository": "networktocode/awesome-network-automation",
     "original_repository_id": 102978400,
     "original_repository_sha": "81fe75ee18fa7c08bf30ec451b95559429c3fb87",
