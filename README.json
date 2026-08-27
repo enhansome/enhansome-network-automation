@@ -90,7 +90,7 @@
                 "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316284
+                "stars": 316381
               }
             }
           ],
@@ -109,10 +109,10 @@
                 "archived": false,
                 "id": 21540759,
                 "language": "Go",
-                "last_commit": "2026-08-26T21:27:52Z",
+                "last_commit": "2026-08-27T09:04:15Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182368
+                "stars": 182404
               }
             }
           ],
@@ -232,10 +232,10 @@
                 "archived": false,
                 "id": 52303111,
                 "language": "C",
-                "last_commit": "2026-08-26T19:37:25Z",
+                "last_commit": "2026-08-27T08:10:12Z",
                 "owner": "clicon",
                 "repo": "clixon",
-                "stars": 254
+                "stars": 255
               }
             },
             {
@@ -269,7 +269,7 @@
                 "archived": false,
                 "id": 528799794,
                 "language": "Python",
-                "last_commit": "2026-08-26T20:58:51Z",
+                "last_commit": "2026-08-27T11:50:53Z",
                 "owner": "opsmill",
                 "repo": "infrahub",
                 "stars": 507
@@ -368,7 +368,7 @@
                 "last_commit": "2026-08-05T11:20:14Z",
                 "owner": "netenglabs",
                 "repo": "suzieq",
-                "stars": 897
+                "stars": 898
               }
             }
           ],
@@ -1112,7 +1112,7 @@
                 "archived": false,
                 "id": 27507850,
                 "language": "Java",
-                "last_commit": "2026-08-26T23:29:54Z",
+                "last_commit": "2026-08-27T08:16:56Z",
                 "owner": "batfish",
                 "repo": "batfish",
                 "stars": 1460
@@ -1288,7 +1288,7 @@
             "archived": false,
             "id": 320043315,
             "language": "Python",
-            "last_commit": "2026-08-26T16:49:18Z",
+            "last_commit": "2026-08-27T09:33:40Z",
             "owner": "ipspace",
             "repo": "netlab",
             "stars": 731
@@ -1324,7 +1324,7 @@
             "archived": false,
             "id": 27507850,
             "language": "Java",
-            "last_commit": "2026-08-26T23:29:54Z",
+            "last_commit": "2026-08-27T08:16:56Z",
             "owner": "batfish",
             "repo": "batfish",
             "stars": 1460
@@ -1342,7 +1342,7 @@
             "last_commit": "2026-08-05T11:20:14Z",
             "owner": "netenglabs",
             "repo": "suzieq",
-            "stars": 897
+            "stars": 898
           }
         }
       ],
@@ -1459,7 +1459,7 @@
             "last_commit": "2026-08-26T19:31:37Z",
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21395
+            "stars": 21399
           }
         },
         {
@@ -1482,9 +1482,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T02:11:36.819Z",
-    "original_repository": "networktocode/awesome-network-automation",
-    "original_repository_id": 102978400,
+    "last_updated": "2026-08-27T11:54:12.488Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 102978400,
+      "language": null,
+      "last_commit": "2026-08-20T23:18:07Z",
+      "owner": "networktocode",
+      "repo": "awesome-network-automation",
+      "stars": 2836
+    },
     "original_repository_sha": "81fe75ee18fa7c08bf30ec451b95559429c3fb87",
     "enhanced_repository": "enhansome/enhansome-network-automation",
     "enhanced_repository_description": null,
