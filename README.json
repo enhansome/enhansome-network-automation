@@ -20,7 +20,8 @@
                     "owner": "ipspace",
                     "repo": "NetOpsWorkshop",
                     "stars": 225
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:49:55.595Z"
                 }
               ],
               "description": null,
@@ -42,7 +43,8 @@
                     "owner": "burningtree",
                     "repo": "awesome-json",
                     "stars": 1564
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:49:55.595Z"
                 }
               ],
               "description": null,
@@ -64,7 +66,8 @@
                     "owner": "ipspace",
                     "repo": "NetOpsWorkshop",
                     "stars": 225
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:49:55.595Z"
                 }
               ],
               "description": null,
@@ -90,8 +93,9 @@
                 "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316381
-              }
+                "stars": 316573
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             }
           ],
           "description": null,
@@ -112,8 +116,9 @@
                 "last_commit": "2026-08-27T09:04:15Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182404
-              }
+                "stars": 182472
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             }
           ],
           "description": null,
@@ -140,7 +145,8 @@
                     "owner": "extremenetworks",
                     "repo": "EXOS_Apps",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:49:55.595Z"
                 },
                 {
                   "node_type": "item",
@@ -155,7 +161,8 @@
                     "owner": "extremenetworks",
                     "repo": "EXOS_Apps",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:49:55.595Z"
                 }
               ]
             }
@@ -185,7 +192,8 @@
                 "owner": "ipspace",
                 "repo": "ansible-examples",
                 "stars": 243
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             }
           ],
           "description": null,
@@ -212,7 +220,8 @@
                     "owner": "batfish",
                     "repo": "pybatfish",
                     "stars": 242
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:49:55.595Z"
                 }
               ]
             }
@@ -232,11 +241,12 @@
                 "archived": false,
                 "id": 52303111,
                 "language": "C",
-                "last_commit": "2026-08-27T08:10:12Z",
+                "last_commit": "2026-08-27T14:43:06Z",
                 "owner": "clicon",
                 "repo": "clixon",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -251,7 +261,8 @@
                 "owner": "clicon",
                 "repo": "clixon-controller",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             }
           ],
           "description": null,
@@ -269,11 +280,12 @@
                 "archived": false,
                 "id": 528799794,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:50:53Z",
+                "last_commit": "2026-08-28T00:56:30Z",
                 "owner": "opsmill",
                 "repo": "infrahub",
-                "stars": 507
-              }
+                "stars": 508
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             }
           ],
           "description": null,
@@ -295,7 +307,8 @@
                 "owner": "napalm-automation",
                 "repo": "napalm-salt",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -310,7 +323,8 @@
                 "owner": "mirceaulinic",
                 "repo": "salt-sproxy",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -325,7 +339,8 @@
                 "owner": "dmulyalin",
                 "repo": "salt-nornir",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             }
           ],
           "description": null,
@@ -343,11 +358,12 @@
                 "archived": false,
                 "id": 19051806,
                 "language": "Python",
-                "last_commit": "2026-08-26T21:57:07Z",
+                "last_commit": "2026-08-27T22:32:52Z",
                 "owner": "StackStorm",
                 "repo": "st2",
                 "stars": 6527
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             }
           ],
           "description": null,
@@ -369,7 +385,8 @@
                 "owner": "netenglabs",
                 "repo": "suzieq",
                 "stars": 898
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             }
           ],
           "description": null,
@@ -387,11 +404,12 @@
                 "archived": false,
                 "id": 340499469,
                 "language": "Python",
-                "last_commit": "2026-08-26T22:08:29Z",
+                "last_commit": "2026-08-28T02:01:21Z",
                 "owner": "nautobot",
                 "repo": "nautobot",
-                "stars": 1586
-              }
+                "stars": 1587
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -406,7 +424,8 @@
                 "owner": "eNMS-automation",
                 "repo": "eNMS",
                 "stars": 839
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -421,7 +440,8 @@
                 "owner": "tbotnz",
                 "repo": "netpalm",
                 "stars": 454
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -436,7 +456,8 @@
                 "owner": "dropbox",
                 "repo": "nsot",
                 "stars": 407
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             }
           ],
           "description": null,
@@ -458,7 +479,8 @@
                 "owner": "ktbyers",
                 "repo": "netmiko",
                 "stars": 4264
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -473,7 +495,8 @@
                 "owner": "napalm-automation",
                 "repo": "napalm",
                 "stars": 2492
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -484,11 +507,12 @@
                 "archived": false,
                 "id": 76636028,
                 "language": "Python",
-                "last_commit": "2026-08-26T07:18:38Z",
+                "last_commit": "2026-08-28T05:24:21Z",
                 "owner": "nornir-automation",
                 "repo": "nornir",
                 "stars": 1613
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -503,7 +527,8 @@
                 "owner": "google",
                 "repo": "textfsm",
                 "stars": 1247
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -518,7 +543,8 @@
                 "owner": "google",
                 "repo": "capirca",
                 "stars": 855
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -533,7 +559,8 @@
                 "owner": "mpenning",
                 "repo": "ciscoconfparse",
                 "stars": 843
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -548,7 +575,8 @@
                 "owner": "netaddr",
                 "repo": "netaddr",
                 "stars": 830
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -563,7 +591,8 @@
                 "owner": "dmulyalin",
                 "repo": "ttp",
                 "stars": 392
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -578,7 +607,8 @@
                 "owner": "codeout",
                 "repo": "inet-henge",
                 "stars": 266
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -593,7 +623,8 @@
                 "owner": "aerleon",
                 "repo": "aerleon",
                 "stars": 262
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -608,7 +639,8 @@
                 "owner": "networktocode",
                 "repo": "netutils",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -623,7 +655,8 @@
                 "owner": "PackeTsar",
                 "repo": "freeztp",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -638,7 +671,8 @@
                 "owner": "easysnmp",
                 "repo": "easysnmp",
                 "stars": 223
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -653,7 +687,8 @@
                 "owner": "dmulyalin",
                 "repo": "N2G",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -668,7 +703,8 @@
                 "owner": "akarneliuk",
                 "repo": "pygnmi",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -679,11 +715,12 @@
                 "archived": false,
                 "id": 133052594,
                 "language": "Python",
-                "last_commit": "2026-08-23T14:29:22Z",
+                "last_commit": "2026-08-27T21:33:54Z",
                 "owner": "netdevops",
                 "repo": "hier_config",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -698,7 +735,8 @@
                 "owner": "nomios-opensource",
                 "repo": "yapyang",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             }
           ],
           "description": null,
@@ -719,8 +757,9 @@
                 "last_commit": "2026-07-13T13:02:21Z",
                 "owner": "ansible-community",
                 "repo": "ara",
-                "stars": 2019
-              }
+                "stars": 2020
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -735,7 +774,8 @@
                 "owner": "Juniper",
                 "repo": "ansible-junos-stdlib",
                 "stars": 338
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -750,7 +790,8 @@
                 "owner": "networktocode",
                 "repo": "ntc-ansible",
                 "stars": 286
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -765,7 +806,8 @@
                 "owner": "napalm-automation",
                 "repo": "napalm-ansible",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -776,11 +818,12 @@
                 "archived": false,
                 "id": 238510689,
                 "language": "Python",
-                "last_commit": "2026-08-18T00:05:00Z",
+                "last_commit": "2026-08-28T04:37:54Z",
                 "owner": "PaloAltoNetworks",
                 "repo": "pan-os-ansible",
-                "stars": 238
-              }
+                "stars": 239
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -795,7 +838,8 @@
                 "owner": "networktocode",
                 "repo": "fortimanager-ansible",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -810,7 +854,8 @@
                 "owner": "infobloxopen",
                 "repo": "infoblox-ansible",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -825,7 +870,8 @@
                 "owner": "elmarx",
                 "repo": "ansible-mysql-query",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -840,7 +886,8 @@
                 "owner": "IPInfusion",
                 "repo": "OcNOS",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -855,7 +902,8 @@
                 "owner": "networktocode",
                 "repo": "netscaler-ansible",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             }
           ],
           "description": null,
@@ -877,7 +925,8 @@
                 "owner": "saltstack-formulas",
                 "repo": "napalm-install-formula",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -892,7 +941,8 @@
                 "owner": "saltstack-formulas",
                 "repo": "napalm-ntp-formula",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             }
           ],
           "description": null,
@@ -914,7 +964,8 @@
                 "owner": "Juniper",
                 "repo": "py-junos-eznc",
                 "stars": 717
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -929,7 +980,8 @@
                 "owner": "PaloAltoNetworks",
                 "repo": "pan-os-python",
                 "stars": 397
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -944,7 +996,8 @@
                 "owner": "kevinsteves",
                 "repo": "pan-python",
                 "stars": 285
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -959,7 +1012,8 @@
                 "owner": "F5Networks",
                 "repo": "f5-common-python",
                 "stars": 265
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -974,7 +1028,8 @@
                 "owner": "networktocode",
                 "repo": "pyntc",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -989,7 +1044,8 @@
                 "owner": "arista-eosplus",
                 "repo": "pyeapi",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -1004,7 +1060,8 @@
                 "owner": "infobloxopen",
                 "repo": "infoblox-client",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -1019,7 +1076,8 @@
                 "owner": "cisco-en-programmability",
                 "repo": "dnacentersdk",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -1034,7 +1092,8 @@
                 "owner": "fooelisa",
                 "repo": "pyiosxr",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -1049,7 +1108,8 @@
                 "owner": "spotify",
                 "repo": "pyfg",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -1064,7 +1124,8 @@
                 "owner": "aristanetworks",
                 "repo": "cvprac",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -1079,7 +1140,8 @@
                 "owner": "infobloxopen",
                 "repo": "infoblox-go-client",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -1094,7 +1156,8 @@
                 "owner": "DavidJohnGee",
                 "repo": "clicrud",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             }
           ],
           "description": null,
@@ -1112,11 +1175,12 @@
                 "archived": false,
                 "id": 27507850,
                 "language": "Java",
-                "last_commit": "2026-08-27T08:16:56Z",
+                "last_commit": "2026-08-27T23:50:59Z",
                 "owner": "batfish",
                 "repo": "batfish",
                 "stars": 1460
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -1131,7 +1195,8 @@
                 "owner": "cidrblock",
                 "repo": "drawthe.net",
                 "stars": 1182
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -1146,7 +1211,8 @@
                 "owner": "Vadims06",
                 "repo": "topolograph",
                 "stars": 238
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -1161,7 +1227,8 @@
                 "owner": "intentionet",
                 "repo": "netconan",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -1176,7 +1243,8 @@
                 "owner": "napalm-automation",
                 "repo": "napalm-logs",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -1191,7 +1259,8 @@
                 "owner": "cidrblock",
                 "repo": "netcopa",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -1206,7 +1275,8 @@
                 "owner": "InfrastructureAsCode-ch",
                 "repo": "nettowel",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -1221,7 +1291,8 @@
                 "owner": "Vadims06",
                 "repo": "ospfwatcher",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -1236,7 +1307,8 @@
                 "owner": "marty90",
                 "repo": "Network-Conditions-Emulator",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             },
             {
               "node_type": "item",
@@ -1251,7 +1323,8 @@
                 "owner": "Vadims06",
                 "repo": "isiswatcher",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T05:49:55.595Z"
             }
           ],
           "description": null,
@@ -1273,11 +1346,12 @@
             "archived": false,
             "id": 290960521,
             "language": "Go",
-            "last_commit": "2026-08-26T17:34:43Z",
+            "last_commit": "2026-08-27T20:13:04Z",
             "owner": "srl-labs",
             "repo": "containerlab",
             "stars": 2778
-          }
+          },
+          "first_seen": "2026-08-28T05:49:55.595Z"
         },
         {
           "node_type": "item",
@@ -1292,7 +1366,8 @@
             "owner": "ipspace",
             "repo": "netlab",
             "stars": 731
-          }
+          },
+          "first_seen": "2026-08-28T05:49:55.595Z"
         },
         {
           "node_type": "item",
@@ -1307,7 +1382,8 @@
             "owner": "plajjan",
             "repo": "vrnetlab",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:55.595Z"
         }
       ],
       "title": "Network Emulators"
@@ -1324,11 +1400,12 @@
             "archived": false,
             "id": 27507850,
             "language": "Java",
-            "last_commit": "2026-08-27T08:16:56Z",
+            "last_commit": "2026-08-27T23:50:59Z",
             "owner": "batfish",
             "repo": "batfish",
             "stars": 1460
-          }
+          },
+          "first_seen": "2026-08-28T05:49:55.595Z"
         },
         {
           "node_type": "item",
@@ -1343,7 +1420,8 @@
             "owner": "netenglabs",
             "repo": "suzieq",
             "stars": 898
-          }
+          },
+          "first_seen": "2026-08-28T05:49:55.595Z"
         }
       ],
       "title": "Network Simulators"
@@ -1360,11 +1438,12 @@
             "archived": false,
             "id": 9500075,
             "language": "Ruby",
-            "last_commit": "2026-08-24T23:23:58Z",
+            "last_commit": "2026-08-27T23:23:04Z",
             "owner": "ytti",
             "repo": "oxidized",
-            "stars": 3529
-          }
+            "stars": 3533
+          },
+          "first_seen": "2026-08-28T05:49:55.595Z"
         },
         {
           "node_type": "item",
@@ -1379,7 +1458,8 @@
             "owner": "udhos",
             "repo": "jazigo",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-28T05:49:55.595Z"
         },
         {
           "node_type": "item",
@@ -1394,7 +1474,8 @@
             "owner": "AppliedTrust",
             "repo": "sweet",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T05:49:55.595Z"
         },
         {
           "node_type": "item",
@@ -1409,7 +1490,8 @@
             "owner": "ssinyagin",
             "repo": "gerty",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T05:49:55.595Z"
         },
         {
           "node_type": "item",
@@ -1424,7 +1506,8 @@
             "owner": "renard",
             "repo": "cidr",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T05:49:55.595Z"
         },
         {
           "node_type": "item",
@@ -1439,7 +1522,8 @@
             "owner": "udhos",
             "repo": "fetchconfig",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T05:49:55.595Z"
         }
       ],
       "title": "Backups"
@@ -1456,11 +1540,12 @@
             "archived": false,
             "id": 52796596,
             "language": "Python",
-            "last_commit": "2026-08-26T19:31:37Z",
+            "last_commit": "2026-08-27T22:14:38Z",
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21399
-          }
+            "stars": 21404
+          },
+          "first_seen": "2026-08-28T05:49:55.595Z"
         },
         {
           "node_type": "item",
@@ -1475,14 +1560,15 @@
             "owner": "dropbox",
             "repo": "nsot",
             "stars": 407
-          }
+          },
+          "first_seen": "2026-08-28T05:49:55.595Z"
         }
       ],
       "title": "IPAM"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:54:12.488Z",
+    "last_updated": "2026-08-28T05:49:55.595Z",
     "original_repository_info": {
       "archived": false,
       "id": 102978400,
@@ -1490,7 +1576,7 @@
       "last_commit": "2026-08-20T23:18:07Z",
       "owner": "networktocode",
       "repo": "awesome-network-automation",
-      "stars": 2836
+      "stars": 2837
     },
     "original_repository_sha": "81fe75ee18fa7c08bf30ec451b95559429c3fb87",
     "enhanced_repository": "enhansome/enhansome-network-automation",
