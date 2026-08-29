@@ -42,7 +42,7 @@
                     "last_commit": "2026-06-19T12:25:07Z",
                     "owner": "burningtree",
                     "repo": "awesome-json",
-                    "stars": 1564
+                    "stars": 1565
                   },
                   "first_seen": "2026-08-28T05:49:55.595Z"
                 }
@@ -93,7 +93,7 @@
                 "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316573
+                "stars": 316803
               },
               "first_seen": "2026-08-28T05:49:55.595Z"
             }
@@ -113,10 +113,10 @@
                 "archived": false,
                 "id": 21540759,
                 "language": "Go",
-                "last_commit": "2026-08-27T09:04:15Z",
+                "last_commit": "2026-08-28T16:52:34Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182472
+                "stars": 182557
               },
               "first_seen": "2026-08-28T05:49:55.595Z"
             }
@@ -216,7 +216,7 @@
                     "archived": false,
                     "id": 142918121,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-19T13:21:52Z",
+                    "last_commit": "2026-08-28T09:24:18Z",
                     "owner": "batfish",
                     "repo": "pybatfish",
                     "stars": 242
@@ -241,7 +241,7 @@
                 "archived": false,
                 "id": 52303111,
                 "language": "C",
-                "last_commit": "2026-08-27T14:43:06Z",
+                "last_commit": "2026-08-28T13:13:51Z",
                 "owner": "clicon",
                 "repo": "clixon",
                 "stars": 255
@@ -257,7 +257,7 @@
                 "archived": false,
                 "id": 574422532,
                 "language": "Shell",
-                "last_commit": "2026-08-21T13:14:19Z",
+                "last_commit": "2026-08-28T11:43:36Z",
                 "owner": "clicon",
                 "repo": "clixon-controller",
                 "stars": 32
@@ -280,7 +280,7 @@
                 "archived": false,
                 "id": 528799794,
                 "language": "Python",
-                "last_commit": "2026-08-28T00:56:30Z",
+                "last_commit": "2026-08-28T20:19:59Z",
                 "owner": "opsmill",
                 "repo": "infrahub",
                 "stars": 508
@@ -358,10 +358,10 @@
                 "archived": false,
                 "id": 19051806,
                 "language": "Python",
-                "last_commit": "2026-08-27T22:32:52Z",
+                "last_commit": "2026-08-28T22:26:34Z",
                 "owner": "StackStorm",
                 "repo": "st2",
-                "stars": 6527
+                "stars": 6526
               },
               "first_seen": "2026-08-28T05:49:55.595Z"
             }
@@ -404,10 +404,10 @@
                 "archived": false,
                 "id": 340499469,
                 "language": "Python",
-                "last_commit": "2026-08-28T02:01:21Z",
+                "last_commit": "2026-08-28T22:44:04Z",
                 "owner": "nautobot",
                 "repo": "nautobot",
-                "stars": 1587
+                "stars": 1588
               },
               "first_seen": "2026-08-28T05:49:55.595Z"
             },
@@ -494,7 +494,7 @@
                 "last_commit": "2026-08-12T20:44:53Z",
                 "owner": "napalm-automation",
                 "repo": "napalm",
-                "stars": 2492
+                "stars": 2493
               },
               "first_seen": "2026-08-28T05:49:55.595Z"
             },
@@ -507,10 +507,10 @@
                 "archived": false,
                 "id": 76636028,
                 "language": "Python",
-                "last_commit": "2026-08-28T05:24:21Z",
+                "last_commit": "2026-08-28T09:16:08Z",
                 "owner": "nornir-automation",
                 "repo": "nornir",
-                "stars": 1613
+                "stars": 1614
               },
               "first_seen": "2026-08-28T05:49:55.595Z"
             },
@@ -590,7 +590,7 @@
                 "last_commit": "2026-03-24T11:15:39Z",
                 "owner": "dmulyalin",
                 "repo": "ttp",
-                "stars": 392
+                "stars": 391
               },
               "first_seen": "2026-08-28T05:49:55.595Z"
             },
@@ -818,7 +818,7 @@
                 "archived": false,
                 "id": 238510689,
                 "language": "Python",
-                "last_commit": "2026-08-28T04:37:54Z",
+                "last_commit": "2026-08-28T16:57:58Z",
                 "owner": "PaloAltoNetworks",
                 "repo": "pan-os-ansible",
                 "stars": 239
@@ -1175,7 +1175,7 @@
                 "archived": false,
                 "id": 27507850,
                 "language": "Java",
-                "last_commit": "2026-08-27T23:50:59Z",
+                "last_commit": "2026-08-28T22:13:47Z",
                 "owner": "batfish",
                 "repo": "batfish",
                 "stars": 1460
@@ -1346,10 +1346,10 @@
             "archived": false,
             "id": 290960521,
             "language": "Go",
-            "last_commit": "2026-08-27T20:13:04Z",
+            "last_commit": "2026-08-28T10:58:38Z",
             "owner": "srl-labs",
             "repo": "containerlab",
-            "stars": 2778
+            "stars": 2780
           },
           "first_seen": "2026-08-28T05:49:55.595Z"
         },
@@ -1362,10 +1362,10 @@
             "archived": false,
             "id": 320043315,
             "language": "Python",
-            "last_commit": "2026-08-27T09:33:40Z",
+            "last_commit": "2026-08-28T15:35:47Z",
             "owner": "ipspace",
             "repo": "netlab",
-            "stars": 731
+            "stars": 732
           },
           "first_seen": "2026-08-28T05:49:55.595Z"
         },
@@ -1400,7 +1400,7 @@
             "archived": false,
             "id": 27507850,
             "language": "Java",
-            "last_commit": "2026-08-27T23:50:59Z",
+            "last_commit": "2026-08-28T22:13:47Z",
             "owner": "batfish",
             "repo": "batfish",
             "stars": 1460
@@ -1441,7 +1441,7 @@
             "last_commit": "2026-08-27T23:23:04Z",
             "owner": "ytti",
             "repo": "oxidized",
-            "stars": 3533
+            "stars": 3534
           },
           "first_seen": "2026-08-28T05:49:55.595Z"
         },
@@ -1540,10 +1540,10 @@
             "archived": false,
             "id": 52796596,
             "language": "Python",
-            "last_commit": "2026-08-27T22:14:38Z",
+            "last_commit": "2026-08-28T20:18:10Z",
             "owner": "netbox-community",
             "repo": "netbox",
-            "stars": 21404
+            "stars": 21407
           },
           "first_seen": "2026-08-28T05:49:55.595Z"
         },
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:49:55.595Z",
+    "last_updated": "2026-08-29T03:23:11.160Z",
     "original_repository_info": {
       "archived": false,
       "id": 102978400,
@@ -1576,7 +1576,7 @@
       "last_commit": "2026-08-20T23:18:07Z",
       "owner": "networktocode",
       "repo": "awesome-network-automation",
-      "stars": 2837
+      "stars": 2838
     },
     "original_repository_sha": "81fe75ee18fa7c08bf30ec451b95559429c3fb87",
     "enhanced_repository": "enhansome/enhansome-network-automation",
