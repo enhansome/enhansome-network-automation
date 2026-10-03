@@ -1,6 +1,6 @@
 # Awesome Network Automation with stars
 
-Network Automation is a cross between the discipline of [Network Infrastructure](https://github.com/sindresorhus/awesome#networking) ⭐ 513,736 | 🐛 106 | 📅 2026-09-02 and the discipline of Programming. This list was created to serve as a one-stop shop for information related to Network Automation.
+Network Automation is a cross between the discipline of [Network Infrastructure](https://github.com/sindresorhus/awesome#networking) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02 and the discipline of Programming. This list was created to serve as a one-stop shop for information related to Network Automation.
 
 * [Awesome Network Automation ](#awesome-network-automation-)
 * [Community](#community)
@@ -207,7 +207,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ## Python
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 324,748 | 🐛 20 | 🌐 Python | 📅 2026-10-02 - A curated list of awesome Python frameworks, libraries, software and resources.
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 324,781 | 🐛 21 | 🌐 Python | 📅 2026-10-02 - A curated list of awesome Python frameworks, libraries, software and resources.
 * [Learn Python the Hard Way](https://learnpythonthehardway.org) - Learn Python The Hard Way takes you from absolute zero to able to read and write basic Python, giving you the tools to understand other documentation and books about Python.
 * [Python at Codecademy](https://www.codecademy.com/learn/learn-python-3) - Learn Python by Codecademy.
 * [Python data structures](https://www.devnetexperttraining.com/articles/python-looping) - Examples on how to access data in nested structures of lists and dicts.
@@ -216,7 +216,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ## Go
 
-* [Awesome Go](https://github.com/avelino/awesome-go) ⭐ 186,618 | 🐛 234 | 🌐 Go | 📅 2026-10-03 - A curated list of awesome Go frameworks, libraries, software and resources.
+* [Awesome Go](https://github.com/avelino/awesome-go) ⭐ 186,649 | 🐛 234 | 🌐 Go | 📅 2026-10-03 - A curated list of awesome Go frameworks, libraries, software and resources.
 * [Getting Started and Basics](https://tour.golang.org/welcome) - Introduction to programming with Go.
 * [JSON-to-Go](https://mholt.github.io/json-to-go/) - This tool instantly converts JSON into a Go type definition.
 * [YAML-to-Go](https://zhwt.github.io/yaml-to-go/) - This tool instantly converts YAML into a Go type definition.
@@ -324,7 +324,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ## Products
 
-* [Nautobot](https://github.com/nautobot/nautobot) ⭐ 1,620 | 🐛 1,023 | 🌐 Python | 📅 2026-10-02 - Nautobot is a Network Source of Truth and Network Automation Platform.
+* [Nautobot](https://github.com/nautobot/nautobot) ⭐ 1,620 | 🐛 1,024 | 🌐 Python | 📅 2026-10-02 - Nautobot is a Network Source of Truth and Network Automation Platform.
 * [eNMS](https://github.com/afourmy/eNMS) ⭐ 845 | 🐛 29 | 🌐 Python | 📅 2026-05-08 - A vendor-agnostic NMS for carrier-grade network visualization and network automation.
 * [netpalm](https://github.com/tbotnz/netpalm) ⭐ 452 | 🐛 19 | 🌐 Python | 📅 2026-03-23 - netpalm is a ReST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT or a Python Script.
 * [NSoT](https://github.com/dropbox/nsot) ⭐ 407 | 🐛 65 | 🌐 Python | 📅 2024-02-13 - Network Source of Truth (NSoT) is a source of truth database and repository for tracking inventory and metadata of network entities to ease management and automation of network infrastructure.
@@ -336,7 +336,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 * [NAPALM](https://github.com/napalm-automation/napalm) ⭐ 2,507 | 🐛 175 | 🌐 Python | 📅 2026-08-12 - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
 * [Nornir](https://github.com/nornir-automation/nornir) ⭐ 1,625 | 🐛 49 | 🌐 Python | 📅 2026-09-27 - Nornir is a pure Python automation framework intended to be used directly from Python.
 * [TextFSM](https://github.com/google/textfsm) ⭐ 1,251 | 🐛 20 | 🌐 Python | 📅 2025-04-17 - Python module for parsing semi-structured text into Python tables.
-* [Capirca](https://github.com/google/capirca) ⭐ 857 | 🐛 58 | 🌐 Python | 📅 2026-10-02 - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy.
+* [Capirca](https://github.com/google/capirca) ⭐ 857 | 🐛 59 | 🌐 Python | 📅 2026-10-02 - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy.
 * [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) ⚠️ Archived - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
 * [netaddr](https://github.com/drkjam/netaddr) ⭐ 831 | 🐛 42 | 🌐 Python | 📅 2024-07-05 - Network address manipulation that supports a number of techniques (supernetting and subnetting).
 * [Template Text Parser](https://github.com/dmulyalin/ttp) ⭐ 390 | 🐛 44 | 🌐 Python | 📅 2026-03-24 - CLI tool and Python module for parsing semi-structured text into structured data. Similar syntax to Jinja templating, but in reverse. TTP Templates [collection](https://github.com/dmulyalin/ttp_templates) ⭐ 71 | 🐛 1 | 🌐 Python | 📅 2026-10-02.
@@ -442,7 +442,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 # Network Emulators
 
-* [Container-Lab](https://github.com/srl-wim/container-lab) ⭐ 2,853 | 🐛 56 | 🌐 Go | 📅 2026-10-02 - Containerlab provides a framework for orchestrating networking labs with containers. It starts the containers, builds a virtual wiring between them to create lab topologies of users choice and manages labs lifecycle.
+* [Container-Lab](https://github.com/srl-wim/container-lab) ⭐ 2,854 | 🐛 56 | 🌐 Go | 📅 2026-10-02 - Containerlab provides a framework for orchestrating networking labs with containers. It starts the containers, builds a virtual wiring between them to create lab topologies of users choice and manages labs lifecycle.
 
 * [netlab](https://github.com/ipspace/netlab) ⭐ 746 | 🐛 25 | 🌐 Python | 📅 2026-10-02 - Brings infrastructure-as-code concepts to networking labs. You'll describe your high-level network topology and routing design in a YAML file, and the tools in this repository will create configs for VirtualBox/libvirt/containerlab, Ansible inventory, IPv4/v6 addressing, VLANs and VRFs, OSPF, EIGRP, IS-IS, BGP, BFD, MPLS, MPLS/VPN, VXLAN, EVPN and Segment Routing.
 
