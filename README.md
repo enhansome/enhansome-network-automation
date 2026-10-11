@@ -1,6 +1,6 @@
 # Awesome Network Automation with stars
 
-Network Automation is a cross between the discipline of [Network Infrastructure](https://github.com/sindresorhus/awesome#networking) ⭐ 516,802 | 🐛 106 | 📅 2026-09-02 and the discipline of Programming. This list was created to serve as a one-stop shop for information related to Network Automation.
+Network Automation is a cross between the discipline of [Network Infrastructure](https://github.com/sindresorhus/awesome#networking) ⭐ 517,246 | 🐛 106 | 📅 2026-09-02 and the discipline of Programming. This list was created to serve as a one-stop shop for information related to Network Automation.
 
 * [Awesome Network Automation ](#awesome-network-automation-)
 * [Community](#community)
@@ -207,7 +207,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ## Python
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 326,166 | 🐛 22 | 🌐 Python | 📅 2026-10-09 - A curated list of awesome Python frameworks, libraries, software and resources.
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 326,395 | 🐛 24 | 🌐 Python | 📅 2026-10-10 - A curated list of awesome Python frameworks, libraries, software and resources.
 * [Learn Python the Hard Way](https://learnpythonthehardway.org) - Learn Python The Hard Way takes you from absolute zero to able to read and write basic Python, giving you the tools to understand other documentation and books about Python.
 * [Python at Codecademy](https://www.codecademy.com/learn/learn-python-3) - Learn Python by Codecademy.
 * [Python data structures](https://www.devnetexperttraining.com/articles/python-looping) - Examples on how to access data in nested structures of lists and dicts.
@@ -216,7 +216,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ## Go
 
-* [Awesome Go](https://github.com/avelino/awesome-go) ⭐ 187,583 | 🐛 65 | 🌐 Go | 📅 2026-10-09 - A curated list of awesome Go frameworks, libraries, software and resources.
+* [Awesome Go](https://github.com/avelino/awesome-go) ⭐ 187,742 | 🐛 66 | 🌐 Go | 📅 2026-10-10 - A curated list of awesome Go frameworks, libraries, software and resources.
 * [Getting Started and Basics](https://tour.golang.org/welcome) - Introduction to programming with Go.
 * [JSON-to-Go](https://mholt.github.io/json-to-go/) - This tool instantly converts JSON into a Go type definition.
 * [YAML-to-Go](https://zhwt.github.io/yaml-to-go/) - This tool instantly converts YAML into a Go type definition.
@@ -281,7 +281,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ## Clixon
 
 * [Clixon Code](https://github.com/clicon/clixon) ⭐ 257 | 🐛 85 | 🌐 C | 📅 2026-10-03 - Clixon provides an interactive CLI, NETCONF, and RESTCONF configuration interface for a YANG-based device.
-* [Clixon Controller Code](https://github.com/clicon/clixon-controller) ⭐ 34 | 🐛 51 | 🌐 Shell | 📅 2026-10-09 - The Clixon controller is an open-source tool for network automation of devices based on NETCONF and YANG.
+* [Clixon Controller Code](https://github.com/clicon/clixon-controller) ⭐ 34 | 🐛 51 | 🌐 Shell | 📅 2026-10-10 - The Clixon controller is an open-source tool for network automation of devices based on NETCONF and YANG.
 * [Clixon Home Page](https://clicon.org) - Clixon home page with links to the different projects with code and documentation.
 
 ## Infrahub
@@ -310,7 +310,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ## StackStorm
 
-* [StackStorm Repository](https://github.com/StackStorm/st2) ⭐ 6,545 | 🐛 605 | 🌐 Python | 📅 2026-10-07 - StackStorm (aka "IFTTT for Ops") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow, 1800+ integrations, native ChatOps and so forth.
+* [StackStorm Repository](https://github.com/StackStorm/st2) ⭐ 6,544 | 🐛 604 | 🌐 Python | 📅 2026-10-10 - StackStorm (aka "IFTTT for Ops") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow, 1800+ integrations, native ChatOps and so forth.
 * [StackStorm Installer](https://docs.stackstorm.com/install/index.html) - Ready to install StackStorm? Here’s an overview of how to get your system up and running.
 * [StackStorm Youtube](https://www.youtube.com/channel/UCColc5CuBJ8-1SnALnkDz8Q) - Various intro, marketing, interviews, and technical product talks.
 * [Stackstorm Docs](https://docs.stackstorm.com) - Documentation repository for latest version of StackStorm.
@@ -332,11 +332,11 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ## Library
 
-* [Netmiko](https://github.com/ktbyers/netmiko) ⭐ 4,302 | 🐛 68 | 🌐 Python | 📅 2026-10-09 - Multi-vendor library to simplify Paramiko SSH connections to network devices.
-* [NAPALM](https://github.com/napalm-automation/napalm) ⭐ 2,511 | 🐛 175 | 🌐 Python | 📅 2026-08-12 - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
-* [Nornir](https://github.com/nornir-automation/nornir) ⭐ 1,629 | 🐛 50 | 🌐 Python | 📅 2026-10-06 - Nornir is a pure Python automation framework intended to be used directly from Python.
+* [Netmiko](https://github.com/ktbyers/netmiko) ⭐ 4,303 | 🐛 68 | 🌐 Python | 📅 2026-10-09 - Multi-vendor library to simplify Paramiko SSH connections to network devices.
+* [NAPALM](https://github.com/napalm-automation/napalm) ⭐ 2,512 | 🐛 175 | 🌐 Python | 📅 2026-08-12 - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
+* [Nornir](https://github.com/nornir-automation/nornir) ⭐ 1,629 | 🐛 48 | 🌐 Python | 📅 2026-10-10 - Nornir is a pure Python automation framework intended to be used directly from Python.
 * [TextFSM](https://github.com/google/textfsm) ⭐ 1,252 | 🐛 20 | 🌐 Python | 📅 2025-04-17 - Python module for parsing semi-structured text into Python tables.
-* [Capirca](https://github.com/google/capirca) ⭐ 857 | 🐛 57 | 🌐 Python | 📅 2026-10-06 - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy.
+* [Capirca](https://github.com/google/capirca) ⭐ 857 | 🐛 58 | 🌐 Python | 📅 2026-10-06 - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy.
 * [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) ⚠️ Archived - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
 * [netaddr](https://github.com/drkjam/netaddr) ⭐ 831 | 🐛 44 | 🌐 Python | 📅 2024-07-05 - Network address manipulation that supports a number of techniques (supernetting and subnetting).
 * [Template Text Parser](https://github.com/dmulyalin/ttp) ⭐ 390 | 🐛 44 | 🌐 Python | 📅 2026-03-24 - CLI tool and Python module for parsing semi-structured text into structured data. Similar syntax to Jinja templating, but in reverse. TTP Templates [collection](https://github.com/dmulyalin/ttp_templates) ⭐ 71 | 🐛 1 | 🌐 Python | 📅 2026-10-08.
@@ -368,6 +368,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 * [ansible-mysql-query](https://github.com/zauberpony/ansible-mysql-query) ⭐ 32 | 🐛 14 | 🌐 Python | 📅 2022-03-29 - Ansible module to modify MySQL database records.
 * [IP Infusion OcNOS Ansible module](https://github.com/IPInfusion/OcNOS) ⭐ 31 | 🐛 7 | 🌐 Python | 📅 2026-09-18 - Ansible module, SNMP MIB files, and YANG files for OcNOS.
 * [Netscaler-Ansible](https://github.com/networktocode/netscaler-ansible) ⚠️ Archived - Ansible module to work with Netscalers.
+* [genieacs-ansible](https://github.com/GeiserX/genieacs-ansible) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-04 - Ansible collection for GenieACS (TR-069 ACS) with a dynamic inventory of CPE devices and modules for device tasks, presets and provisions.
 
 ## Pre-written Salt States (Formulas)
 
@@ -392,16 +393,16 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ## Tools
 
-* [Batfish](https://github.com/batfish/batfish) ⭐ 1,499 | 🐛 281 | 🌐 Java | 📅 2026-10-09 - Open-source network validation application. Multi-vendor configuration parser with a detailed modeled based simulation to analyze all aspects of network behavior (routing, forwarding, security, etc...).
+* [Batfish](https://github.com/batfish/batfish) ⭐ 1,500 | 🐛 284 | 🌐 Java | 📅 2026-10-11 - Open-source network validation application. Multi-vendor configuration parser with a detailed modeled based simulation to analyze all aspects of network behavior (routing, forwarding, security, etc...).
 * [Drawthe.net](https://github.com/cidrblock/drawthe.net) ⭐ 1,183 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-26 - Draw network diagrams described in YAML files.
 * [Topolograph](https://github.com/Vadims06/topolograph) ⭐ 243 | 🐛 8 | 🌐 Smarty | 📅 2026-10-07 - Python-based Web tool for visualisation of OSPF/ISIS topologies and making a prediction of network behaviour in case of network's outage.
 * [netconan](https://github.com/intentionet/netconan) ⭐ 173 | 🐛 20 | 🌐 Python | 📅 2026-10-06 - Network Configuration Anonymizer
 * [napalm-logs](https://github.com/napalm-automation/napalm-logs) ⭐ 145 | 🐛 42 | 🌐 Python | 📅 2026-04-13 - Cross-vendor normalisation for network syslog messages, following the OpenConfig and IETF YANG models.
 * [NetCopa](https://github.com/cidrblock/netcopa) ⭐ 139 | 🐛 5 | 🌐 Python | 📅 2024-01-11 - Network device configuration parser ("industry standard" -> YAML converter).
 * [NetTowel](https://github.com/InfrastructureAsCode-ch/nettowel) ⭐ 88 | 🐛 0 | 🌐 Python | 📅 2025-08-02 - Collection of useful network automation functions for the CLI.
-* [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) ⭐ 87 | 🐛 9 | 🌐 Python | 📅 2026-10-05 - Tracks OSPF topology changes by establishing a GRE tunnel with network devices via a history diagram.
+* [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) ⭐ 87 | 🐛 9 | 🌐 Python | 📅 2026-10-10 - Tracks OSPF topology changes by establishing a GRE tunnel with network devices via a history diagram.
 * [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) ⭐ 20 | 🐛 1 | 🌐 Shell | 📅 2026-09-23 - Artificially limit bandwidth, delay and loss rate on selected interfaces.
-* [IS-IS Watcher](https://github.com/Vadims06/isiswatcher) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2026-10-05 - Tracks IS-IS topology changes by establishing a GRE tunnel with network devices via a history diagram.
+* [IS-IS Watcher](https://github.com/Vadims06/isiswatcher) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2026-10-10 - Tracks IS-IS topology changes by establishing a GRE tunnel with network devices via a history diagram.
 * [D2](https://d2lang.com/) - Create beautiful diagrams in minutes. Simple syntax. Endlessly customizable. D2 is the fastest and easiest way to get a mental model from your head onto the screen, then make edits with your team.
 
 ## Network Telemetry
@@ -442,9 +443,9 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 # Network Emulators
 
-* [Container-Lab](https://github.com/srl-wim/container-lab) ⭐ 2,871 | 🐛 42 | 🌐 Go | 📅 2026-10-09 - Containerlab provides a framework for orchestrating networking labs with containers. It starts the containers, builds a virtual wiring between them to create lab topologies of users choice and manages labs lifecycle.
+* [Container-Lab](https://github.com/srl-wim/container-lab) ⭐ 2,873 | 🐛 44 | 🌐 Go | 📅 2026-10-10 - Containerlab provides a framework for orchestrating networking labs with containers. It starts the containers, builds a virtual wiring between them to create lab topologies of users choice and manages labs lifecycle.
 
-* [netlab](https://github.com/ipspace/netlab) ⭐ 749 | 🐛 32 | 🌐 Python | 📅 2026-10-09 - Brings infrastructure-as-code concepts to networking labs. You'll describe your high-level network topology and routing design in a YAML file, and the tools in this repository will create configs for VirtualBox/libvirt/containerlab, Ansible inventory, IPv4/v6 addressing, VLANs and VRFs, OSPF, EIGRP, IS-IS, BGP, BFD, MPLS, MPLS/VPN, VXLAN, EVPN and Segment Routing.
+* [netlab](https://github.com/ipspace/netlab) ⭐ 749 | 🐛 33 | 🌐 Python | 📅 2026-10-09 - Brings infrastructure-as-code concepts to networking labs. You'll describe your high-level network topology and routing design in a YAML file, and the tools in this repository will create configs for VirtualBox/libvirt/containerlab, Ansible inventory, IPv4/v6 addressing, VLANs and VRFs, OSPF, EIGRP, IS-IS, BGP, BFD, MPLS, MPLS/VPN, VXLAN, EVPN and Segment Routing.
 
 * [VRNetLab](https://github.com/plajjan/vrnetlab) ⭐ 0 | 🐛 0 | 📅 2026-06-25 - Run your favourite virtual routers in docker for convenient labbing, development and testing.
 
@@ -462,7 +463,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 # Network Simulators
 
-* [Batfish](https://github.com/batfish/batfish) ⭐ 1,499 | 🐛 281 | 🌐 Java | 📅 2026-10-09 - Batfish provides a model-based simulation for multi-vendor networks, that enables routing, forwarding, security, compliance, and what-if scenario analysis of a network (or proposed change to a network).
+* [Batfish](https://github.com/batfish/batfish) ⭐ 1,500 | 🐛 284 | 🌐 Java | 📅 2026-10-11 - Batfish provides a model-based simulation for multi-vendor networks, that enables routing, forwarding, security, compliance, and what-if scenario analysis of a network (or proposed change to a network).
 * [SuzieQ](https://github.com/netenglabs/suzieq) ⭐ 906 | 🐛 137 | 🌐 Python | 📅 2026-08-29 - SuzieQ is a agentless, multi-vendor network observability application.
 * [Cisco WAN Automation Engine](https://www.cisco.com/c/en/us/products/routers/wae-planning/index.html) - Cisco WAE, formerly known as Cariden MATE, provides a multi-vendor network simulation that enables capacity planning and what-if scenario analysis for carrier networks.
 * [Forward Networks](https://forwardnetworks.com) - Forward Enterprise documents, searches, verifies, and predicts the behavior of your network by creating an always-accurate software copy of your entire network infrastructure for both on-prem and cloud.
@@ -482,7 +483,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 # IPAM
 
-* [NetBox](https://github.com/netbox-community/netbox) ⭐ 21,673 | 🐛 232 | 🌐 Python | 📅 2026-10-10 - NetBox is an IP address management (IPAM) and data center infrastructure management (DCIM) tool.
+* [NetBox](https://github.com/netbox-community/netbox) ⭐ 21,677 | 🐛 232 | 🌐 Python | 📅 2026-10-10 - NetBox is an IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 * [NSoT](https://github.com/dropbox/nsot) ⭐ 407 | 🐛 65 | 🌐 Python | 📅 2024-02-13 - Network Source of Truth is an open source IPAM and network inventory database.
 * [bluecat](https://bluecatnetworks.com/adaptive-dns/bluecat-integrity/) - BlueCat provides network intelligence and insight into the relationship between devices, users and IP addresses that can be put into action to improve security and ensure reliable, always-on business connectivity.
 * [Device42](https://www.device42.com) - Automatically maintain an up-to-date inventory of your physical, virtual, and cloud servers and containers, network components, software, services, applications, and their inter-relationships and inter-dependencies. Integrations, REST APIs and webhooks to automate your workflows with a modern CMDB as a single source of truth. Comes with powerful Data Center Infrastructure Management, IP Address Management and Application Mappings.  Mostly leverages SNMP or vendor provided APIs that are well adopted/documented.
@@ -591,4 +592,4 @@ Licensed under the Creative Commons 4.0 License, see LICENSE file for more detai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
